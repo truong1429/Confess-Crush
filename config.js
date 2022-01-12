@@ -1,20 +1,19 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    titleWeb: "i love you forever ",
+    introTitle: 'Trương Thu Hà- ngóooo',
+    introDesc: `ny của Phạm Xuân Trường-
+    không ngố từ ngày 7/9/2021
+    nhanh thật hơn 6 tháng ruidd`,
+    btnIntro: '^^đúng zay hihi^^',
+    title: 'Anh biết anh vẫn còn nhiều khuyết điểmm �',
+    desc: 'Nhưng mà anh biết em vẫn yêu anh màaa ',
+    btnYes: 'Đúng zayy <33',
+    btnNo: 'Không nha :3(không được click)',
+    question: 'Anh hay làm em buồn, hay làm em giận nhưng mà em vẫn yêu anh<3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'vì anh không ngố và anh yêu em<33333333',
+    mess: 'Ah biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Đừng giận anh nữa nhaa, tuần sau anh rùi mình đi chơi',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
